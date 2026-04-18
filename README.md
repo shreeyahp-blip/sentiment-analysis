@@ -10,7 +10,7 @@ This is a Streamlit-based web app that predicts sentiment (Positive, Negative, N
 ## Run Locally
 
 pip install -r requirements.txt  
-python -m streamlit run app.py
+python -m streamlit run code.py
 
 ## Dataset
 Airline tweets dataset
